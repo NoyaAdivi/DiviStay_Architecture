@@ -45,8 +45,8 @@ The architectural design is fully documented using UML diagrams. *(You can view 
 
 ## 📄 Documentation
 You can find the comprehensive project documents in this repository:
-* [Software Architecture Document (SAD)](link_to_your_SAD_pdf_file)
-* [Software Requirements Specification (SRS)](link_to_your_SRS_pdf_file)
+* [Software Architecture Document]
+* [Software Requirements Specification]
 
 ---
 *This project was designed as part of a Software Engineering course by Noya, Amit, and Amir.*
