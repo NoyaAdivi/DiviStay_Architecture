@@ -25,7 +25,7 @@ The system is designed using a layered architecture (MVC) with a strong emphasis
 The architectural design is fully documented using UML diagrams. *(You can view the full architecture document in the `docs` folder).*
 
 **1. Class Diagram (Domain Model)**
-*Highlights the relationships between Users, Booking Groups, Rooms, and the Strategy pattern implementation.*
+The architectural design is fully documented using UML diagrams. *(You can view the full architecture document linked in the Documentation section below).*
 ![Class Diagram](Software_Architecture_Document.pdf)
 
 **2. Sequence Diagram - Payment Processing**
