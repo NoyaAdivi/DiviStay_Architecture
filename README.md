@@ -26,15 +26,15 @@ The architectural design is fully documented using UML diagrams. *(You can view 
 
 **1. Class Diagram (Domain Model)**
 *Highlights the relationships between Users, Booking Groups, Rooms, and the Strategy pattern implementation.*
-![Class Diagram](link_to_your_class_diagram_image_here)
+![Class Diagram](Software_Requirements_Specification.pdf)
 
 **2. Sequence Diagram - Payment Processing**
 *Demonstrates the exact message flow between the Client App, DiviStay Server, Database, and the External Payment Gateway.*
-![Sequence Diagram](link_to_your_sequence_diagram_image_here)
+![Sequence Diagram](Software_Requirements_Specification.pdf)
 
 **3. Activity Diagram - Group Creation & Room Locking**
 *Maps the system's decision-making process when locking rooms and handling edge cases like unavailable inventory.*
-![Activity Diagram](link_to_your_activity_diagram_image_here)
+![Activity Diagram](Software_Requirements_Specification.pdf)
 
 ## 🛠️ Skills & Concepts Showcased
 * **System Architecture & Design**
